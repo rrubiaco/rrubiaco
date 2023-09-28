@@ -6,6 +6,8 @@
   - [Active Directory Home Lab](https://github.com/rrubiaco/ActiveDirectoryLab)
 - <b>AWS Environment</b>
   - [Test Lab](<github link>)
+- <b>Azure Environment</b>
+  - [Test Lab](<github link>)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
