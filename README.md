@@ -17,8 +17,11 @@
 <h2> 🤳 Certifications:</h2>
 
 - AWS Certified Solutions Architect - Associate
-- AWS Certified Developer - Associate (in progress)
 - CompTIA Linux+
+- Azure Fundamentals (in progress)
+- Azure Developer Associate (in progress)
+- Azure Administrator Associate (in progress)
+- Azure DevOps Engineer Expert (in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
