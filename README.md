@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/rrubiaco">Cloud & DevOps Engineer</a>, <a href="https://www.linkedin.com/in/ryan-rubiaco/">IT Professional</a> </a></h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/rrubiaco">Cloud & DevSecOps Engineer</a>, <a href="https://www.linkedin.com/in/ryan-rubiaco/">IT Professional</a> </a></h1>
 
-<h2>👨‍💻 Cloud & DevSecOps Engineer Projects:</h2>
+<h2>👨‍💻 Cloud & DevOps Engineer Projects:</h2>
 
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/rrubiaco/ActiveDirectoryLab)
