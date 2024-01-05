@@ -20,10 +20,12 @@
 
 - AWS Certified Solutions Architect - Associate
 - CompTIA Linux+
+- AWS Certified System Administrator - Associate (in progress)
+- AWS Certified Developer - Associate (in progress)
+- AWS Certified DevOps Engineer - Professional (in progress)
 - Azure Fundamentals (in progress)
-- Azure Developer Associate (in progress)
-- Azure Administrator Associate (in progress)
-- Azure DevOps Engineer Expert (in progress)
+- HashiCorp Certified: Terraform Associate (in progress)
+- Certified Kubernetes Administrator (in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
